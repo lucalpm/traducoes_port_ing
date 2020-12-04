@@ -1190,7 +1190,8 @@ Attribute IA_Port_Ing.VB_ProcData.VB_Invoke_Func = "Normal.NewMacros.IA_Port_Ing
 '
 ' IA_Port_Ing Macro
 ' Traduz os ingredientes ativos do português para o inglês
-'
+' comentario exemplo
+
     Selection.Find.ClearFormatting
     Selection.Find.Replacement.ClearFormatting
     With Selection.Find
